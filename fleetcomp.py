@@ -27,3 +27,4 @@ class Vessel:
         editMod=uInput.lower()
       else:
         editMod=mod
+      pass
